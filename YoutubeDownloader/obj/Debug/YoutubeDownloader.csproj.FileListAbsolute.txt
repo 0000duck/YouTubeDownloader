@@ -1,0 +1,17 @@
+C:\Desarrollo\YoutubeDownloader\YoutubeDownloader\bin\Debug\YoutubeDownloader.exe.config
+C:\Desarrollo\YoutubeDownloader\YoutubeDownloader\bin\Debug\DownloadForm.resx
+C:\Desarrollo\YoutubeDownloader\YoutubeDownloader\bin\Debug\DownloadForm.cs
+C:\Desarrollo\YoutubeDownloader\YoutubeDownloader\bin\Debug\DownloadForm.Designer.cs
+C:\Desarrollo\YoutubeDownloader\YoutubeDownloader\bin\Debug\YoutubeDownloader.exe
+C:\Desarrollo\YoutubeDownloader\YoutubeDownloader\bin\Debug\YoutubeDownloader.pdb
+C:\Desarrollo\YoutubeDownloader\YoutubeDownloader\bin\Debug\libvideo.dll
+C:\Desarrollo\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.csprojResolveAssemblyReference.cache
+C:\Desarrollo\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.DownloadForm.resources
+C:\Desarrollo\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.Properties.Resources.resources
+C:\Desarrollo\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.csproj.GenerateResource.Cache
+C:\Desarrollo\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.exe
+C:\Desarrollo\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.pdb
+C:\Desarrollo\YoutubeDownloader\YoutubeDownloader\bin\Debug\YoutubeDownloader.exe.manifest
+C:\Desarrollo\YoutubeDownloader\YoutubeDownloader\bin\Debug\YoutubeDownloader.application
+C:\Desarrollo\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.exe.manifest
+C:\Desarrollo\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.application
